@@ -17,6 +17,7 @@ int main() {
     printf("Sorted array: ");
     for(i = 0; i < 5; i++)
         printf("%d ", a[i]);
+    printf("hello");
 
     return 0;
 }
